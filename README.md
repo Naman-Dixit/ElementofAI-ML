@@ -13,3 +13,15 @@ imported in the lab 4 or in a new dataset.
 #
 Experiment 6 - Implement the missing value, and outlier handling data preprocessing 
 techniques on the dataset imported in lab 4 or any other dataset.
+#
+Experiment 7 - Implement feature scaling and one hot encoding data preprocessing 
+techniques on the dataset imported in lab 4 or any other dataset. 
+#
+Experiment 8 - Implement Dimensionality reduction using Principal Component 
+Analysis (PCA) method.
+#
+Expriment 9 - Implement different techniques of handling imbalanced data. 
+#
+Experiment 10 - Write a Python program to demonstrate various Data Visualization 
+Techniques using Matplotlib and Seaborn libraries.
+
